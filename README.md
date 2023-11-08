@@ -1,6 +1,5 @@
-### Perfil da Lelê
+### Olá, meu nome é Letícia Almeida e tenho 15 anos!
 
-- Olá, meu nome é Letícia Almeida e tenho 15 anos!
 - Sou estudante da Etec MCM e faço o curso de Informática para Internet.
 - Atualmente estou estudando Web Dev, Banco de Dados, Phython e Iot.
 - Estou participando do projeto FETEPS e desenvolvendo o básico de BD e Flutter.
@@ -16,7 +15,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
+[![My Skills](https://skillicons.dev/icons?i=py,html,css)](https://skillicons.dev)
 --------------------
 
 <div> 
