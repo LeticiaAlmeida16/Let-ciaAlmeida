@@ -4,11 +4,12 @@
 - Atualmente estou estudando Web Dev, Banco de Dados, Phython e Iot.
 - Estou participando do projeto FETEPS e desenvolvendo o básico de BD e Flutter.
 - Eu gosto de ler livros e assistir filmes/séries.
+- Entre em contato: leticia.almeidaaa2008@gmail.com
 -------------------
 <div>
   <a href="https://github.com/LeticiaAlmeida16">
   <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaAlmeida16&show_icons=true&theme=transparent">
-    <img width="50%" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaAlmeida16&layout=compact">
+  <img width="50%" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaAlmeida16&layout=compact">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,5 +19,5 @@
 --------------------
 
 <div> 
-  <a href="https://https://instagram.com/le.almeidan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/le.almeidan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
