@@ -1,4 +1,4 @@
-### Olá, meu nome é Letícia Almeida e tenho 15 anos!
+### Olá, meu nome é Letícia Almeida e tenho 16 anos!
 
 - Sou estudante da Etec MCM e faço o curso de Informática para Internet.
 - Atualmente estou estudando Web Dev, Banco de Dados, Phython e Iot.
